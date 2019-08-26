@@ -39,4 +39,14 @@
 1. git clone https://github.com/i-love-linux/Sort_Java.git 克隆代码到本地
 2. 打开过程如下：
 
-![img]()
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/1.png)
+
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/2.png)
+
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/3.png)
+
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/4.png)
+
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/5.png)
+
+![img](https://github.com/i-love-linux/Sort_Java/blob/master/image/6.png)
